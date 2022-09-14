@@ -2,7 +2,7 @@
 
 This is my first database programming project.
 This captures how to implement Java database connectivity.
-####java,javaFx,Mysql
+(java,javaFx,Mysql)
 ## Screenshots
 
 ![](src/assets/1.png)
